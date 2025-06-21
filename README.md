@@ -74,7 +74,7 @@ SARS-CoV-2（新型冠状病毒）感染在全球引发了严重的公共卫生�
 感谢所有为项目提供数据、技术支持和建议的个人和机构，特别鸣谢相关研究机构或数据提供方在 SARS-CoV-2 咳嗽声数据收集与整理方面的辛勤工作，本项目的成功离不开各方的共同努力与协作。
 
 ## English Translate
-ulia-based SARS-CoV-2 Cough Sound Classification Model
+Julia-based SARS-CoV-2 Cough Sound Classification Model
 Project Introduction
 This project aims to develop an advanced cough sound classification model based on the Julia language to assist in identifying SARS-CoV-2 infections through cough sound signal analysis, providing an innovative tool for public health monitoring and rapid screening.
 Data Source
